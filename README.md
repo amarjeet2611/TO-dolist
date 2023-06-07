@@ -11,7 +11,7 @@ This is a simple To-Do List application built using HTML, JavaScript, CSS, and X
 
 ## Installation
 
-1. Clone the repository: https://github.com/amarjeet2611/CodeClause_TO-dolist/new/master
+1. Clone the repository: https://github.com/amarjeet2611/CodeClause_TO-dolist
 
 2. Install and configure XAMPP. You can download it from the official website: [https://www.apachefriends.org](https://www.apachefriends.org).
 
