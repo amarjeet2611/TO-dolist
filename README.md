@@ -1,4 +1,4 @@
-# CodeClause_TO-dolist
+# TO-dolist
 # To-Do List Application
 
 This is a simple To-Do List application built using HTML, JavaScript, CSS, and XAMPP. It allows users to add and manage their tasks.
