@@ -16,6 +16,7 @@ if ($result->num_rows > 0) {
     $tasks[] = $row["task"];
   }
 }
+
 $conn->close();
 header("Content-Type: application/json");
 echo json_encode($tasks);
